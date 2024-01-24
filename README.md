@@ -9,6 +9,9 @@ We will release the following resources in this project:
 
 ## Change log
 
+## Data Samples
+
+
 ## ⚙️ Requirements
 
 We will provide the detailed requirements in requirements.txt. You can run pip install requirements.txt to create the same running environment as ours.
@@ -20,5 +23,5 @@ pip install -r requirements.txt
 ```
 
 
-## 
-For any question, feel free to email wzhoux@connect.hku.hk
+## ❔︎ Contact
+For any question about this work, please do not hesitate to contact us by email 42033064@smail.swufe.edu.cn.
