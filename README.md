@@ -35,7 +35,7 @@ The industry stock relation data is an adjacent matrix $\mathbb{R}^{N×N}$, wher
 
 ## ⚙️ Requirements
 
-We will provide the detailed requirements in requirements.txt. You can run pip install requirements.txt to create the same running environment as ours:
+We will provide the detailed requirements in `requirements.txt`. You can run pip install requirements.txt to create the same running environment as ours:
 
 ```bash
 conda create -n MGNN python=3.8
