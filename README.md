@@ -10,9 +10,23 @@ MGNN is a deep learning framework to use multimodal stock related data for track
 Our multimodal dataset includes financial news,fundamental and stock relationship data. We provide 200 training data samples of financial news and fundamental data in this repo. 
 
 #### 1. financial news and fundamental data
-The structure of a dataset is a dict consisting of four field: `stock code`, `date` and `news` and `fundamental`.The field `news` is a list and the field `fundamental` is a dict with `high`, `open`, `low` and `close`.
+The structure of a dataset is a dict consisting of four field: `stock_code`, `date` and `news` and `fundamental`.The field `fundamental` is a dict with `high`, `open`, `low` and `close`.
 
 Here is an example.
+```
+{
+  "stock_code": "",
+  "date": "",
+  "news": ""
+  "fundamental": {
+                  'high': ,
+                  'open': ,
+                  'low': ,
+                  'close': ,
+                 },
+}
+```
+
 
 #### 2. stock relation data
 The industry stock relation data is an adjacent matrix $\mathbb{R}^{N×N}$, where $N$ represents the number of stocks. It can be collected from the Chinese Stock Market & Accounting Research (CSMAR) database.
