@@ -20,8 +20,8 @@ Here is an example.
   "news": ""
   "fundamental": {
                   'high': ,
-                  'open': ,
                   'low': ,
+                  'open': ,
                   'close': ,
                  },
 }
