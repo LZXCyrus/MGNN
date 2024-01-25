@@ -1,6 +1,6 @@
 # MGNN
 
-MGNN is a deep learning framework to use multimodal stock related data for tracking stock movements. The framework has been proven to outperform traditional methods in predicting stock prices, making it a valuable tool for providing valuable insights for investors.
+MGNN is a deep learning framework using multimodal stock related data for tracking stock movements. The framework has been proven to outperform traditional methods in predicting stock prices, making it a valuable tool for providing valuable insights for investors.
 
 ## 📝 Updates
 
